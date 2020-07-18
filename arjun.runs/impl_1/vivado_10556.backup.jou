@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Jul 17 12:36:14 2020
+# Process ID: 10556
+# Current directory: D:/Xilinx_projects/arjun/arjun.runs/impl_1
+# Command line: vivado.exe -log Traffic_Light_Controller.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Traffic_Light_Controller.tcl -notrace
+# Log file: D:/Xilinx_projects/arjun/arjun.runs/impl_1/Traffic_Light_Controller.vdi
+# Journal file: D:/Xilinx_projects/arjun/arjun.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Traffic_Light_Controller.tcl -notrace
