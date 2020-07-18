@@ -1,0 +1,1 @@
+-wto "1710754592e4425da112df2f97e49bc0" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Traffic_Light_Controller_behav" "xil_defaultlib.Traffic_Light_Controller" "xil_defaultlib.glbl" -log "elaborate.log" 

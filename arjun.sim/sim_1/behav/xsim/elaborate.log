@@ -1,0 +1,14 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 1710754592e4425da112df2f97e49bc0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Traffic_Light_Controller_TB_behav xil_defaultlib.Traffic_Light_Controller_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Traffic_Light_Controller
+Compiling module xil_defaultlib.Traffic_Light_Controller_TB
+WARNING: [XSIM 43-3368] "D:/Xilinx_projects/arjun/arjun.srcs/sim_1/new/Traffic_Light_Controller_TB.v" Line 43. Negative delay (-1863462912000.000000) treated as 0.
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Traffic_Light_Controller_TB_behav

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../arjun.srcs/sources_1/new/Traffic_Light_Controller.v" \
+"../../../../arjun.srcs/sim_1/new/Traffic_Light_Controller_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
